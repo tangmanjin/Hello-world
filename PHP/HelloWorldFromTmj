@@ -1,0 +1,4 @@
+<?php
+  echo "just do it";
+  echo "hello word";
+?>
